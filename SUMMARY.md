@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Hope It Works (yeah)](hope-it-works-yeah.md)
+* [I Will Survive](i-will-survive.md)
+* [The Developer](the-developer.md)
+* [QA Team's Last Chance](qa-teams-last-chance.md)
