@@ -63,7 +63,7 @@ One more time to test the app today.
 Em7
 Deployment scheduled for tonight and, oh no, 
                        A     G
-I just found a bug again
+I just found another bug!
 </pre><pre>
 Am                     G
 There's tofu in our content now,
@@ -90,5 +90,5 @@ One more time to test the app today.
 Em7
 Deployment scheduled for tonight and, oh no, 
                        A     G
-I just found a bug again
+I just found another bug!
 </pre>
