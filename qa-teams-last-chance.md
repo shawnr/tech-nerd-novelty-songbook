@@ -25,16 +25,18 @@ We tried to hold the line, but chaos was destined.
    G           D
 ...chaos was destined.
 </pre>
-  chorus:
-  Em7
-  Last chance for QA Team
+<pre>
+chorus:
+Em7
+Last chance for QA Team
                                        A
 One more time to test the app today.
 Em7
 Deployment’s scheduled for tonight and, oh no, 
                        A     G
 I just found another bug!
-
+</pre>
+<pre>
 Am                     G
 Some dev committed broken code
 D                           Am
@@ -51,7 +53,8 @@ Am                    G
 Buy me a drink, sing me a song
 D                          Am
 Keep me at work, I’ve been here so long
-
+</pre>
+<pre>
 chorus:
 Em7
 Last chance for QA Team
@@ -61,7 +64,7 @@ Em7
 Deployment scheduled for tonight and, oh no, 
                        A     G
 I just found a bug again
-
+</pre><pre>
 Am                     G
 There's tofu in our content now,
 D                        Am
@@ -78,7 +81,7 @@ Am                          G
 It was too cold to cry when we launched at 3,
 D                             Am
 Closed out the last issue: Works For Me.
-
+</pre><pre>
 chorus:
 Em7
 Last chance for QA Team
